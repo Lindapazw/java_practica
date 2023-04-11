@@ -1,8 +1,8 @@
 
-package javaapplication9;
+package CambioDeValor;
 
 
-public class JavaApplication9 {
+public class CambioDeValor {
 
     public static void main(String[] args) {
         
